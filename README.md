@@ -39,9 +39,7 @@ Scores by Spending     |  Scores by Size    |    Scores by School Type
 <img src="https://github.com/ajcurtis916/school_district_analysis/blob/main/resources/zscores_by_spending.png" width="400" />|<img src="https://github.com/ajcurtis916/school_district_analysis/blob/main/resources/zscores_by_size.png" width="400"/>|<img src="https://github.com/ajcurtis916/school_district_analysis/blob/main/resources/zscores_by_type.png" width="400"/>
 </br>
 
-There were no changes to the scores by school spending, size, and school type after removing the ninth graders' scores at Thomas High.  We accounted for a change in school population when running the calculations for the new scores and passing percentages above, but left the "Total Students" population unaltered, so as not to incorrectly reprt the actual number of students in the Thomas High population or per student budget.
-</br>
-Most obviously, the ninth grade scores columns changed to all NaNs for Thomas High School.  Our analyses of the district scores by grade, spending, school size and school type were as follows: 
+There were no changes to the scores by school spending, size, and school type after removing the ninth graders' scores at Thomas High.  We accounted for a change in school population when running the calculations for the new scores and passing percentages above, but left the "Total Students" population unaltered, so as not to incorrectly report the actual number of students in the Thomas High population or per student budget.  Most obviously, the ninth grade scores columns changed to all NaNs for Thomas High School.  Our analyses of the district scores by grade, spending, school size and school type were as follows: 
 </br>
 
 - Overall passing percentages by grade level were within a 1% margin at each school.
